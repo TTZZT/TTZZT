@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TTZZT
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on php fullstack development projects
 - 📫 How to reach me ...
 
 <!---
